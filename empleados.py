@@ -1,0 +1,7 @@
+dpi=input("ingrese su numero de dpi aquì ")
+nombre=input("ingrese su nombre ")
+edad=int(input("coloque su edad "))
+telefono=input("ingrese su numero telefonico ")
+direccion=input("coloque la direcciòn ")
+puest=input("puesto para aplicar ")
+print("La persona " +nombre +" con id "+dpi+" tiene "+str(edad) + " años y su numero telefonico es "+ telefono +" que vive en "+ direccion+" quiere aplicar para el puesto "+ puest)
